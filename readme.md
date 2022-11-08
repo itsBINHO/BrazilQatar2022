@@ -1,6 +1,6 @@
 # NLW #10 Copa
 
-![preview](./vscode/Capa.jpg)
+![preview](preview/Capa.jpg)
 
 > <b>10ª NLW Rocketseat</b>
 
