@@ -1,10 +1,12 @@
 # NLW #10 Copa
 
-![preview](./.github/nlwCopaPreview.png)
+![preview](./assets/preview.svg)
 
 > <b>10ª NLW Rocketseat</b>
 
-> Projeto feito na decima edição do NLW da Rocketseat :rocket:. 
+> Projeto feito na decima edição do NLW da Rocketseat :rocket:.
+
+[🔗 Clique aqui para acessar](https://itsbinho.github.io/uploadNLW_COPA/)
 
 ## :hammer_and_wrench: Tecnologias
 
